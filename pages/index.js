@@ -2,7 +2,7 @@ import Head from "next/head";
 
 export default function Home() {
   return (
-    <div className="mx-auto max-w-3xl py-16">
+    <div className="mx-auto max-w-3xl px-4 sm:px-0 py-16">
       <Head>
         <title>Create Next App</title>
         <link rel="icon" href="/favicon.ico" />
